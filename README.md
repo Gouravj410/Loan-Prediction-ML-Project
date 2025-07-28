@@ -1,30 +1,35 @@
-# Loan Prediction using Machine Learning
+# 🏦 Loan Prediction Project
 
-This project is a machine learning model that predicts loan approval based on applicant information.
+This project predicts loan approval using Machine Learning classification models.
 
-## 📌 Project Summary
+## 🔍 Problem Statement
+To automate the loan approval process for a bank based on applicant information.
 
-- Cleaned and preprocessed data (missing values, label encoding)
-- Built models using Random Forest and XGBoost
-- Compared accuracy scores
-- Visualized feature importance
+## 🧰 Tools & Libraries
+- Python (PyCharm)
+- NumPy, Pandas, Matplotlib, Seaborn
+- Scikit-learn
+- XGBoost
 
-## 🚀 Accuracy Results
+## 🧪 Models Tested
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- XGBoost
 
-- Random Forest Accuracy: **78.86%**
-- XGBoost Accuracy: **73.98%**
+## ✅ Best Accuracy
+- Random Forest: 78.86%
+- XGBoost: 73.98%
 
-## 📂 Files
+## 📚 Skills Practiced
+- Data preprocessing & cleaning
+- Exploratory Data Analysis (EDA)
+- Model training & evaluation
+- Hyperparameter tuning
 
-- `loan_prediction.ipynb`: Jupyter notebook with all steps
-- `requirements.txt`: Libraries needed to run this project
+## 📁 Dataset
+Used from: [Insert dataset source if public or mention "Provided during coursework"]
 
-## 📷 Sample Output
+## 👨‍💻 Developed By
+Gourav Jangid – BSc Data Science Student
 
-Feature Importance graph, accuracy scores, and confusion matrix.
-
-## 🛠️ How to Run
-
-```bash
-pip install -r requirements.txt
-jupyter notebook loan_prediction.ipynb
