@@ -27,9 +27,7 @@ To automate the loan approval process for a bank based on applicant information.
 - Model training & evaluation
 - Hyperparameter tuning
 
-## 📁 Dataset
-Used from: [Insert dataset source if public or mention "Provided during coursework"]
-
 ## 👨‍💻 Developed By
 Gourav Jangid – BSc Data Science Student
+
 
